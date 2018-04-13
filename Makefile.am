@@ -1,3 +1,4 @@
 AUTOMAKE_OPTIONS=foreign
-bin_PROGRAMS=4ipnet
-4ipnet_SOURCES=src/main.c
+bin_PROGRAMS=4ipnet-automake
+4ipnet_automake_SOURCES=src/main.c
+
